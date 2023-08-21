@@ -68,7 +68,13 @@ cursor: pointer;
 
 
 
+@media (max-width:477px){
 
+    .input-box{
+        width: 90%;
+        
+    }
+}
 
 
 
